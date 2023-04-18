@@ -36,4 +36,6 @@
    <h1>Just to show it works properly</h1>
    <h1>Changing again to show some automate build and deploy</h1>
    <h1>New Title is here</h1>
+   <h2>This is Kaung in docker saying hello</h2>
+   <h3>For testing it is automatic pipeline deploy on docker</h3>
 </form>
